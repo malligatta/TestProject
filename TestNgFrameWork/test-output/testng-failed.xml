@@ -6,7 +6,6 @@
       <class name="com.crm.qa.testcase.HomePageTest">
         <methods>
           <include name="clickOnContactlinktest"/>
-          <include name="tearDown"/>
           <include name="setUp"/>
           <include name="verifyHomePageTitleTest"/>
         </methods>
